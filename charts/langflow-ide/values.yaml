@@ -238,3 +238,6 @@ secretProvider:
 
 postgresql:
   enabled: false
+
+metrics:
+  enabled: no
